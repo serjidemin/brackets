@@ -23,7 +23,7 @@ check('|(|)', [['(', ')'], ['|', '|']]) // -> false
 check('|()|(||)||', [['(', ')'], ['|', '|']]) // -> true
 ```
 
-Write your code in `src/index.js`
+Write your code in `src/index1.js`
 
 ## Prepare and test
 1. Install [Node.js](https://nodejs.org/en/download/)   
